@@ -1,4 +1,3 @@
 understanding shell basics
-and
  
  
